@@ -4,7 +4,7 @@ ___
 
 Если вы сделали изменения в вашем удаленном репозитории, другие пользователи могут скачать изменения при помощи команды pull.
 
-```bush=
+```bash=
 $ git pull origin master
 From https://github.com/tutorialzine/awesome-project
 * branch master -> FETCH_HEAD

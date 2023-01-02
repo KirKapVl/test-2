@@ -9,6 +9,6 @@ ___
 
 Пример:
 
-```bush=
+```bash=
 git clone https://github.com/avsudnichnikov/example
 ```
